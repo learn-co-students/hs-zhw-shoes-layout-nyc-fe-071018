@@ -25,3 +25,45 @@
 /* Posititoning Classes */
 
 
+#FeaturedBrands{
+  float: left;
+  width: 66%;
+}
+
+#Archive{
+  margin-left: 2%;
+  float: right;
+  width: 32%;
+}
+
+.shoes{
+  margin-top: 2%;
+  float: left;
+  width: 32%;
+  
+}
+
+#ladybug{
+  margin-right: 2%;
+}
+
+#skaters{
+  margin-right: 2%;
+}
+
+#heels{
+  margin-right: 0;
+}
+
+.bottom{
+  float: left;
+  width: 32%;
+}
+#links{
+  margin-left: 2%;
+}
+
+#follow{
+  margin-top: 0;
+  margin-left: 2%;
+}
