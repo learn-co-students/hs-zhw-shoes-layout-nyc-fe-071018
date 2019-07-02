@@ -24,4 +24,32 @@
 
 /* Positioning Classes */
 
+.column-left {
+    float: left;
+    width: 66%;
+}
 
+.column-right {
+  float: right;
+  width: 33%;
+}
+
+.shoes-left {
+  float: left;
+  width: 32%;
+}
+
+.shoes-center {
+  margin: 0 auto;
+  width: 32%;
+}
+
+.shoes-right {
+  float: right;
+  width: 32%;
+}
+
+.footer-column {
+  column-count: 3;
+  column-span: all;
+}
